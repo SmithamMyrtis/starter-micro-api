@@ -1,13 +1,20 @@
 {
-  "name": "starter-micro-api",
-  "version": "1.0.0",
-  "description": "Cyclic.sh micro api starter",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-  }
+    "name": "cycc",
+    "version": "1.0.0",
+    "description": "bad request",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "start.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SmithamMyrtis/cycc.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SmithamMyrtis/cycc/issues"
+    },
+    "homepage": "https://github.com/SmithamMyrtis/cycc#readme"
 }
